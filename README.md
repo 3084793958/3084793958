@@ -1,3 +1,4 @@
+<div align=center>
 # Hey,I am 3084793958.
 
 ![](https://komarev.com/ghpvc/?username=3084793958&label=++访+问+人+数:++&color=brightgreen&style=plastic)
@@ -38,13 +39,15 @@ I am a **student**.
 [**Qt**](https://www.qt.io/) <kbd><sub>**5.15.6**</sub></kbd>
 
 ![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&theme=vue)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&langs_count=6)
 
 # My friends(May be friend)
 
-[**strh520**](../../strh520)
+[**strh520**](../../../../strh520)
 
 ![strh520's github stats](https://github-readme-stats.vercel.app/api?username=strh520&show_icons=true&theme=vue)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&langs_count=6)
 
 # Pinned
@@ -56,3 +59,4 @@ I am a **student**.
 **Be patient,my friends...**
  
 **鸽，继续鸽...**
+</div>
