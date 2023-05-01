@@ -49,9 +49,9 @@ I am a **student**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
 #
 # Pinned
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island)](https://githubfast.com/3084793958/music-island&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island&cache_seconds=86400&theme=tokyonight)](https://githubfast.com/3084793958/music-island)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer)](https://githubfast.com/3084793958/github_timer&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer&cache_seconds=86400&theme=tokyonight)](https://githubfast.com/3084793958/github_timer)
 
 **Be patient,my friends...**
  
