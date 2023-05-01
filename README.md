@@ -18,7 +18,9 @@ QQ:ID:3084793958
 
 mail:qq3084793958@outlook.com
 
-bilibili:ID:1188773803 Name:3084793958
+bilibili:ID:[1188773803](https://space.bilibili.com/1188773803) Name:3084793958
 
 # Now
 deepin20.8 python3.7.3
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&langs_count=6)
