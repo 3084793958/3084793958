@@ -44,14 +44,14 @@ I am a **student**.
 # My friends(May be friend)
 [**strh520**](../../../../strh520)
 
-![strh520's github stats](https://github-readme-stats.vercel.app/api?username=strh520&show_icons=true&theme=github_dark&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![strh520's github stats](https://github-readme-stats.vercel.app/api?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&langs_count=6&count_private=false&locale=cn&bg_color=30,e96443,904e95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
 #
 # Pinned
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island)](https://githubfast.com/3084793958/music-island&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island)](https://githubfast.com/3084793958/music-island&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer)](https://githubfast.com/3084793958/github_timer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer)](https://githubfast.com/3084793958/github_timer&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
 
 **Be patient,my friends...**
  
