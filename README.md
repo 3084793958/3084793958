@@ -37,9 +37,9 @@ I am a **student**.
 
 [**Qt**](https://www.qt.io/) <kbd><sub>**5.15.6**</sub></kbd>
 
-![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&theme=github_dark&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=00AEFF&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&langs_count=6&count_private=false&locale=cn&bg_color=30,e96443,904e95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&theme=tokyonight&langs_count=6&count_private=false&locale=cn&bg_color=30,e96443,904e95&icon_color=79ff97&text_color=9f9f9f)
 #
 # My friends(May be friend)
 [**strh520**](../../../../strh520)
