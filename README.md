@@ -37,9 +37,9 @@ I am a **student**.
 
 [**Qt**](https://www.qt.io/) <kbd><sub>**5.15.6**</sub></kbd>
 
-![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=00AEFF&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&theme=tokyonight&langs_count=6&count_private=false&locale=cn&bg_color=30,e96443,904e95&icon_color=79ff97&text_color=9f9f9f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
 #
 # My friends(May be friend)
 [**strh520**](../../../../strh520)
@@ -49,9 +49,9 @@ I am a **student**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&langs_count=6&count_private=false&locale=cn&bg_color=30,e96443,904e95)
 #
 # Pinned
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island)](https://githubfast.com/3084793958/music-island)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island)](https://githubfast.com/3084793958/music-island&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer)](https://githubfast.com/3084793958/github_timer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer)](https://githubfast.com/3084793958/github_timer&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
 
 **Be patient,my friends...**
  
