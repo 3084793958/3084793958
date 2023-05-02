@@ -47,16 +47,16 @@ I am a **student**.
 
 [**Qt**](https://www.qt.io/) <kbd><sub>**5.15.6**</sub></kbd>
 
-![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&bg_color=30,e96443,904e95&rank_icon=github)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&bg_color=30,e96443,904e95&rank_icon=github)
 #
 # My friends(May be friend)
 [**strh520**](../../../../strh520)
 
-![strh520's github stats](https://github-readme-stats.vercel.app/api?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![strh520's github stats](https://github-readme-stats.vercel.app/api?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&bg_color=30,e96443,904e95&rank_icon=github)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&rank_icon=github&bg_color=30,e96443,904e95)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strh520&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&bg_color=30,e96443,904e95&rank_icon=github)
 #
 # Pinned
 [![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island&cache_seconds=86400&theme=tokyonight)](../../../../3084793958/music-island)
