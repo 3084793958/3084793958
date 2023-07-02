@@ -61,7 +61,7 @@ I am a **student**.
 # Pinned
 [![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island&cache_seconds=86400&theme=tokyonight)](../../../../3084793958/music-island)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=github_timer&cache_seconds=86400&theme=tokyonight)](../../../../3084793958/github_timer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3084793958&repo=music-island-B-QT-P&cache_seconds=86400&theme=tokyonight)](../../../../3084793958/music-island-B-QT-P)
 
 **Be patient,my friends...**
  
