@@ -1,29 +1,16 @@
 #
 <div align=center>
-<a href="../../../../3084793958"><img src="image/try1.png" width=20%></a>
  
 [**3084793958**](../../../../3084793958)
  
 [![](https://komarev.com/ghpvc/?username=3084793958&label=++访+问+人+数:++&color=brightgreen&style=plastic)](../../../../3084793958)
 </div>
-<div align=right><a href="../../../../3084793958/github_timer"><img src="image/github_timer.gif" width=20%></a></div>
-<div align=right><a href="../../../../3084793958/music-island"><img src="image/music-island.png" width=20%></a></div>
 <div align=center>
 
 #
 # Hey,I am 3084793958.
 
 我是**3084793958**。
-
-Hey,I am **3084793958**.
-
-我来自**中国**。
-
-I come from **China**.
-
-我是**学生**。
-
-I am a **student**.
 #
 # Accounts
 **QQ:ID:**<i>3084793958</i>
@@ -33,7 +20,7 @@ I am a **student**.
 [**bilibili:**](https://www.bilibili.com/)**ID**:<i>[1188773803](https://space.bilibili.com/1188773803)</i> **Name:**<i>3084793958</i>
 #
 # Now
-[**Deepin**](https://www.deepin.org/index/zh) <kbd><sub>**20.8**</sub></kbd>
+[**Deepin**](https://www.deepin.org/index/zh) <kbd><sub>**20.9**</sub></kbd>
 
 [**Python**](https://www.python.org/) <kbd><sub>**3.7.3**</sub></kbd>
 
@@ -45,7 +32,9 @@ I am a **student**.
 
 [**Qt Creator**](https://www.qt.io/) <kbd><sub>**4.8.2**</sub></kbd>
 
-[**Qt**](https://www.qt.io/) <kbd><sub>**5.15.6**</sub></kbd>
+[**Qt**](https://www.qt.io/) <kbd><sub>**5.15.8**</sub></kbd>
+
+[**Godot**](https://godotengine.org/) <kbd><sub>**3.5.stable.mono**</sub></kbd>
 
 ![3084793958's github stats](https://github-readme-stats.vercel.app/api?username=3084793958&show_icons=true&title_color=008dfd&icon_color=27e8a7&text_color=20232a&count_private=false&locale=cn&bg_color=30,e96443,904e95&rank_icon=github)
  
